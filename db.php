@@ -1,9 +1,9 @@
 <?php
 
-define("DB_HOST", "localhost");
-define("DB_NAME", "php_project");
-define("DB_USERNAME", "root");
-define("DB_PASS", "");
+// define("DB_HOST", "localhost");
+// define("DB_NAME", "php_project");
+// define("DB_USERNAME", "root");
+// define("DB_PASS", "");
 
 $host = 'localhost';
 $db   = 'php_project';
